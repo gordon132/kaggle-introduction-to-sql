@@ -1,0 +1,29 @@
+## Notes
+
+The detailed notes for this course can be found in the `notes/` directory.
+
+### Topics Covered
+
+- Introduction to relational databases
+- Writing SELECT statements
+- Filtering data with WHERE
+- Sorting results with ORDER BY
+- Aggregate functions
+  - COUNT()
+  - SUM()
+  - AVG()
+  - MIN()
+  - MAX()
+- Grouping data with GROUP BY
+- Filtering groups with HAVING
+- Practical SQL querying using BigQuery
+
+### Key Takeaways
+
+- SQL is used to retrieve and analyze data stored in relational databases.
+- SELECT statements specify the data to be retrieved.
+- WHERE clauses filter rows based on specific conditions.
+- Aggregate functions summarize data.
+- GROUP BY organizes data into categories for analysis.
+- ORDER BY sorts query results in ascending or descending order.
+- SQL enables efficient exploration and analysis of large datasets.
